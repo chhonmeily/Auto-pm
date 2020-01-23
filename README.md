@@ -64,9 +64,11 @@ How to install:
 [Pinetools](https://pinetools.com/find-and-replace)
 
 ##  Customize scripts
-
-You can loop. Add and decrease the user amount from userlists. Auto-pm everyone in room and than auto switch rooms and it will start pming users there 
-
+```
+You can loop.
+Add and decrease the user amount from userlists. 
+Auto-pm everyone in room and than auto switch rooms and it will start pming users there 
+```
 ##  
 ##  
 
@@ -74,10 +76,38 @@ You can loop. Add and decrease the user amount from userlists. Auto-pm everyone 
 
 ## Chatib
 
+This is more simpler than e-chat auto-pm. Since Chatib has no limt on how many people you can pm in a certain time period and javascript responds faster on this site. You can do any speed on here slow-medium-fast.
+
+Before installing the Auto-pm. [Download](https://chrome.google.com/webstore/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) this Google chrome Extension: UI.Vision RPA
+
+This Extension runs faster for Maximum speed
+
+How to install:
+
+```
+ 1. Download file. Download link below
+ 2. Edit the .json See down below how to.
+ 3. Open new window on chrome Go to chatib.us and login with account or Chat Without Registration login
+ 4. Click play! you can also loop by clicking the down chevron button. Set number of max value to the amount you want to replay. Default is 3
+
+```
+Its set to pm 1500 users 
+[Download zip](https://srv-file5.gofile.io/download/kEp8Gy/Chatbi-auto-pm.json.zip)
 
 
+## Editing .Json
 
-##  
+```
+1. Open any text editor(Recommend atom text editor)
+2. Copy all the code in file
+3. Go to https://pinetools.com/find-and-replace
+4. paste code in "ORIGINAL TEXT" box
+5. In "Search for" box type: Enter your text here
+6. In "Replace with" box Enter any text
+7. Click replace and copy code from "TEXT WITH REPLACED OCCURRENCES" box
+8. Open text editor Delete orginal code and paste new code
+
+```
 
 
 
