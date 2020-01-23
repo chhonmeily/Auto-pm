@@ -65,9 +65,7 @@ How to install:
 
 ##  Customize scripts
 
-You can loop 
-Add and decrease the user amount from userlists
-Auto-pm everyone in room and than auto switch rooms and it will start pming users there 
+You can loop. Add and decrease the user amount from userlists. Auto-pm everyone in room and than auto switch rooms and it will start pming users there 
 
 ##  
 ##  
