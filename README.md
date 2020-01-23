@@ -37,7 +37,10 @@ How to install:
 
  ![Failed to load](https://i.ibb.co/vqvDN2t/setspeed1.png =400x400)
 
-![alt text](https://i.ibb.co/vqvDN2t/setspeed1.png =400x400 "Logo Title Text 1")
+!(https://i.ibb.co/vqvDN2t/setspeed1.png =400x400 "Logo Title Text 1")
+
+![Image description](https://i.ibb.co/vqvDN2t/setspeed1.png)
+
 
 
 ![Failed to Load](https://s5.gifyu.com/images/Auto-pm.gif =700x400)
