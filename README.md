@@ -1,3 +1,3 @@
 # Isebyf
 
-![alt text]([https://i.ibb.co/vqvDN2t/setspeed1.png](https://i.ibb.co/vqvDN2t/setspeed1.png)
+![alt text](https://i.ibb.co/vqvDN2t/setspeed1.png "Logo Title Text 1")
