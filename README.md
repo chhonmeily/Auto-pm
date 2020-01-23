@@ -38,8 +38,7 @@ How to install:
 
 
 (img3)
-<img src="https://s5.gifyu.com/images/Auto-pm.gif" alt="img3" width="700" height="400">
-
+![img3](https://s5.gifyu.com/images/Auto-pm.gif)
 
 
 
