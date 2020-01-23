@@ -28,7 +28,7 @@ How to install:
 **Note**: Downward userlists pms users going down from top to bottom. Upward userlists pms users from bottom to top. As seen in (img0)
 
 <img src="https://i.ibb.co/FB0M2HS/Userdown-up.png" alt="img0" width="600" height="300">
-
+(img0)
 
  
 
