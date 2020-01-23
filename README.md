@@ -27,14 +27,18 @@ How to install:
 
 **Note**: Downward userlists pms users going down from top to bottom. Upward userlists pms users from bottom to top. As seen in (img0)
 
-<img src="https://i.ibb.co/FB0M2HS/Userdown-up.png" alt="img0" width="600" height="300">
 (img0)
+<img src="https://i.ibb.co/FB0M2HS/Userdown-up.png" alt="img0" width="600" height="300">
 
- 
+ (img1)
+<img src="https://i.ibb.co/vqvDN2t/setspeed1.png" alt="img1" width="400" height="400">
+
+(img2)
+<img src="https://i.ibb.co/vqvDN2t/setspeed1.png" alt="img2" width="400" height="400">
 
 
-
-
+(img3)
+<img src="https://s5.gifyu.com/images/Auto-pm.gif" alt="img3" width="700" height="400">
 
 
 
