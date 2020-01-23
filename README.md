@@ -39,8 +39,11 @@ How to install:
 
 
 
+
 (img2)
-![img2](https://s5.gifyu.com/images/Auto-pm.gif)
+<a href="https://imgflip.com/gif/3n0gwi"><img src="https://i.imgflip.com/3n0gwi.gif" title="img2"/></a>
+
+
 
 
 
