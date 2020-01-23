@@ -39,14 +39,8 @@ How to install:
 
 
 
-
 (img2)
-<img src="https://i.ibb.co/vqvDN2t/setspeed1.png" alt="img2" width="400" height="400">
-
-
-
-(img3)
-![img3](https://s5.gifyu.com/images/Auto-pm.gif)
+![img2](https://s5.gifyu.com/images/Auto-pm.gif)
 
 
 
