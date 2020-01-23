@@ -37,7 +37,6 @@ How to install:
 
  ![Failed to load](https://i.ibb.co/vqvDN2t/setspeed1.png =400x400)
 
-Inline-style: 
 ![alt text](https://i.ibb.co/vqvDN2t/setspeed1.png =400x400 "Logo Title Text 1")
 
 
