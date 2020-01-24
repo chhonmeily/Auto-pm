@@ -1,0 +1,722 @@
+{
+  "Name": "E-chatautopm",
+  "CreationDate": "2020-1-21",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "Delete this text and Than Enter room url e.g http://e-chat.co/room/1",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[2]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[3]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[4]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[5]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[6]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[7]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[8]",
+      "Value": ""
+    },
+
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "E-chat Error: \"You can only open 8 conversations in one minute.\" Waiting 21sec to resume| @yfb_sei"
+    },
+    {
+      "Command": "pause",
+      "Target": "22000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[9]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[10]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[11]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[12]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[13]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[14]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[15]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[16]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "E-chat Error: \"You can only open 8 conversations in one minute.\" Waiting 21sec to resume| @yfb_sei"
+    },
+    {
+      "Command": "pause",
+      "Target": "22000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[17]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[18]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[19]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "pause",
+      "Target": "2000",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"accounts-container__room\"]/div[2]/div[20]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"account-popup__options\"]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=InputTextArea",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Delete this text Than Enter your message here"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SendButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"conversation-tabs\"]/div/img[4]",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=InputTextArea",
+      "Value": "Successfully completed! @yfb_sei"
+    }
+  ]
+}
