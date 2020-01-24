@@ -110,13 +110,10 @@ rectangle box2
   
   <img src="https://i.ibb.co/HtRt8zb/whileloopbtttom.png" alt="img8" width="500" height="200">
   
-  
-
-
 ## 
+For best results use 2 browsers or [person/profile](https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=en-GB) on chrome one running Downward other upward script. If you have 2 windows or tab open. Both logged in on e-chat with same user. Close one of the window and tab.    
 
-
-
+**When its running dont touch the browser window its running in. Let it run in background**
 
 ##  
 ##  
