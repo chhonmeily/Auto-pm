@@ -63,12 +63,61 @@ How to install:
 ```
 [Pinetools](https://pinetools.com/find-and-replace)
 
-##  Customize scripts
-```
-You can loop.
-Add and decrease the user amount from userlists. 
-Auto-pm everyone in room and than auto switch rooms and it will start pming users there 
-```
+##  Loop script
+
+ Load one of .html script in Katalon recorder extension. Click on plus sign four times. Four rectangle box will appear at bottom. Fill them out as follow:
+ rectangle box1
+ ```
+ Command: store
+ Target: 1
+ Value: ii
+ ```
+<img src="https://i.ibb.co/Y305bDy/Store.png" alt="img3" width="400" height="100">
+
+rectangle box2
+ ```
+ Command: while
+ Target: ii<5
+ Value: 
+ ```
+ Note: Script will loop 5 times. You can change 5 to any number greater than 1.
+ 
+ <img src="https://i.ibb.co/N66N2B0/while.png" alt="img4" width="400" height="100">
+ 
+ rectangle box3
+ ```
+ Command: storeEval
+ Target: ${ii}+1
+ Value: ii
+ ```
+ <img src="https://i.ibb.co/3CHfD9N/Storeeval.png" alt="img5" width="400" height="100">
+ 
+ rectangle box4
+ ```
+ Command: endWhile
+ Target: 
+ Value: 
+ ```
+ <img src="https://i.ibb.co/443dYcz/endwhile.png" alt="img6" width="400" height="100">
+ 
+ 
+ Move store to the very top and while to second.
+ 
+ 
+  <img src="https://i.ibb.co/yqstm74/whilelooptop.png" alt="img7" width="500" height="200">
+  
+  Endwhile should be at very bottom and storeEval above it
+  
+  <img src="https://i.ibb.co/HtRt8zb/whileloopbtttom.png" alt="img8" width="500" height="200">
+  
+  
+
+
+## 
+
+
+
+
 ##  
 ##  
 
